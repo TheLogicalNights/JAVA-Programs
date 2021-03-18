@@ -2,7 +2,7 @@
     Problem Statement : Accept two numbers from user and return addition of that numbers
 */
 
-import java.util.*;
+import java.util.Scanner;
 
 class Numbers
 {
